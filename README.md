@@ -12,4 +12,4 @@ asdf plugin-add kubectl https://github.com/asdf-community/asdf-kubectl.git
 
 ## Use
 
-Check out the [asdf documentation](https://asdf-vm.com/#/core-manage-versions?id=install-version) for instructions on how to install and manage versions of Kubectl.
+Check out the [asdf documentation](https://asdf-vm.com/guide/getting-started.html#_5-install-a-version) for instructions on how to install and manage versions of Kubectl.
